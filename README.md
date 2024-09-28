@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant Uekey
 - 👀 I’m interested in software technology and building and creating it..
-- 🌱 I’m currently learning Web development
+- 🌱 FullStack Web developer
 - 💞️ I’m looking to collaborate on Modern Website building and GameDev world
 - 📫 How to reach me Linkdin/Vedant Uekey https://www.linkedin.com/in/vedant-uekey-052268291/
 
