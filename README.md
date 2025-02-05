@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vedant Uekey
 
-I am a passionate FullStack Web Developer with a strong interest in software technology. My goal is to build innovative and scalable solutions across the web and explore the world of Game Development.
+I am a FullStack Web Developer with a strong interest in software technology. My goal is to build innovative and scalable solutions across the web and explore the world of Game Development.
 
 ## 🚀 Skills & Interests
 - 💻 FullStack Web Development
