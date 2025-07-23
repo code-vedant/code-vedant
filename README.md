@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m **Vedant Uekey**, a second-year Computer Science Engineering student and a full-stack web developer focused on crafting efficient, scalable web solutions and exploring the intersection of software engineering and artificial intelligence.
+Hey! I’m **Vedant Uekey**, a third-year(BTech CSE"27) Computer Science Engineering student and a full-stack web developer focused on crafting efficient, scalable web solutions and exploring the intersection of software engineering and artificial intelligence.
 
 From building educational tools and productivity apps to launching scalable platforms like a car marketplace with AI-powered search and test drive booking my projects aim to solve real-world problems with clean code and smart features. I actively work with modern frameworks and backend stacks, always aiming to improve performance, maintainability, and user experience.
 
